@@ -1,1 +1,3 @@
-welcome to python
+def welcome :
+  print ("welcome to python")
+  welcome() 
